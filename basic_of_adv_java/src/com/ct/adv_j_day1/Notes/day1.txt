@@ -42,3 +42,7 @@ ________________________________________
 ❓ FAQ: What is Storage?
 Memory location where data is stored and accessed.
 🔸 Types of Storage in Java:
+1.	Field Storage
+o	Holds single data values
+o	Created by primitive datatypes
+o	Can be:
