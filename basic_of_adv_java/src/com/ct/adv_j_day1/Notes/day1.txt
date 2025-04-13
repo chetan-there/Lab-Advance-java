@@ -75,3 +75,5 @@ ________________________________________
 o	String, StringBuffer, StringBuilder
 3.	Wrapper Class Objects
 o	Byte, Short, Integer, Long, Float, Double, Character, Boolean
+4.	Array Objects
+o	Arrays of user-defined, strings, wrappers, jagged arrays, mixed objects
