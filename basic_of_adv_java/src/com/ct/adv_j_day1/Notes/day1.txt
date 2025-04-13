@@ -68,3 +68,9 @@ Addition ad = new Addition();
 Addition.a = 13;
 ad.b = 14;
 ad.add();  // Output: 27
+________________________________________
+🧠 Types of Objects in Core Java
+1.	User-defined Class Objects
+2.	String Objects
+o	String, StringBuffer, StringBuilder
+3.	Wrapper Class Objects
