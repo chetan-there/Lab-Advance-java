@@ -84,3 +84,11 @@ o	Set: HashSet, LinkedHashSet, TreeSet
 6.	Map Objects
 o	HashMap, LinkedHashMap, TreeMap, Hashtable
 7.	Enum Objects
+________________________________________
+❓ FAQ: Difference Between Object Terms
+Term	Description
+Object	Memory that holds instance members of a class
+Object Reference	Address location where the object is stored
+Object Reference Var	Non-primitive variable that stores the reference (acts like object name)
+________________________________________
+
