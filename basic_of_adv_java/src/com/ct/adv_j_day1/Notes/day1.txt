@@ -64,3 +64,7 @@ class Addition {
     }
 }
 
+Addition ad = new Addition();
+Addition.a = 13;
+ad.b = 14;
+ad.add();  // Output: 27
