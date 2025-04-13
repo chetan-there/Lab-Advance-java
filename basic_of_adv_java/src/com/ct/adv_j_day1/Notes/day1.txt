@@ -1,0 +1,12 @@
+Here's the formatted version of the notes from your PDF (Day-1), without watermarks, cleanly structured for study or documentation:
+________________________________________
+📘 Advanced Java – Day 1 Notes
+🔹 Summary of Core Java
+1. Java Programming Components (Java Alphabets)
+•	Variables
+•	Methods
+•	Constructors
+•	Blocks
+•	Classes
+•	Interfaces
+•	Abstract Classes
