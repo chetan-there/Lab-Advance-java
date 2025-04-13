@@ -10,3 +10,10 @@ ________________________________________
 •	Classes
 •	Interfaces
 •	Abstract Classes
+2. Java Programming Concepts
+•	Object-Oriented Programming (OOP)
+•	Exception Handling
+•	Multi-threading
+•	Java Collection Framework (JCF) – Data structures
+•	File Storage
+•	Networking
