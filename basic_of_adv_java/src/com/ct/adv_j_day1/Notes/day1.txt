@@ -17,3 +17,10 @@ ________________________________________
 •	Java Collection Framework (JCF) – Data structures
 •	File Storage
 •	Networking
+3. Object-Oriented Programming Features
+•	Class
+•	Object
+•	Encapsulation
+•	Abstraction
+•	Polymorphism
+•	Inheritance
