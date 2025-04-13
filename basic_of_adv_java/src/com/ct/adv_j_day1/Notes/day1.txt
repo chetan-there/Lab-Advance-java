@@ -24,3 +24,21 @@ ________________________________________
 •	Abstraction
 •	Polymorphism
 •	Inheritance
+________________________________________
+📌 Note:
+Using Core Java components and concepts, we can develop Non-Server Applications or Stand-Alone Applications.
+❓ FAQ: What are Stand-Alone Applications?
+Applications installed and executed on a single computer without server support.
+________________________________________
+🌐 Advanced Java Technologies
+Advanced Java helps in developing server-based or web applications using:
+1.	JDBC – Java Database Connectivity
+2.	Servlets – Server-side programs to handle requests and responses
+3.	JSP – Java Server Pages for dynamic content generation
+❓ FAQ: What are Server-based Applications?
+Applications executed in a server environment.
+________________________________________
+🗃️ Day 2: JDBC (Java Database Connectivity)
+❓ FAQ: What is Storage?
+Memory location where data is stored and accessed.
+🔸 Types of Storage in Java:
