@@ -77,3 +77,10 @@ o	String, StringBuffer, StringBuilder
 o	Byte, Short, Integer, Long, Float, Double, Character, Boolean
 4.	Array Objects
 o	Arrays of user-defined, strings, wrappers, jagged arrays, mixed objects
+5.	Collection Objects
+o	List: ArrayList, LinkedList, Vector → Stack
+o	Queue: PriorityQueue, Deque → ArrayDeque, LinkedList
+o	Set: HashSet, LinkedHashSet, TreeSet
+6.	Map Objects
+o	HashMap, LinkedHashMap, TreeMap, Hashtable
+7.	Enum Objects
