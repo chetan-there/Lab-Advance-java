@@ -81,3 +81,22 @@ Examples:
 Microsoft Word – A word processing application. 
 Notepad – A basic text editor for writing and editing plain text.
 2 
+2. Web Applications : 
+------------------------------- 
+Definition: These applications run in a web browser and are accessed 
+ through the internet using URLs. 
+ These application which are executed in the server environment   and interacts with the user through web browser. 
+ They collect data from broswers. 
+ - These applications can be developed using components from Adv. Java:  - JDBC: Java Database Connectivity 
+ - used to interact with database product. 
+- Servlet: Server Program which accepts the requests from broswer 
+ and then provides the response. 
+- JSP: Java Server Page: 
+ It gives response from web application. 
+Features: 
+- No installation required on the client-side. 
+- Centralized updates and maintenance. 
+- Accessible from any device with internet and a browser. 
+Examples: 
+Gmail – For sending and receiving emails. 
+Facebook – A social networking platform. 
