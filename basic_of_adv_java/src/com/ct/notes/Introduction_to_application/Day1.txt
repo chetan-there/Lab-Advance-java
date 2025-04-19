@@ -110,3 +110,10 @@ Features:
 Examples: 
 WhatsApp – A messaging and calling app. 
 Instagram – A photo and video sharing platform. 
+4. Enterprise Applications : 
+------------------------------------- 
+Definition: These are large-scale software systems designed to operate in a  corporate environment. They help manage business processes and data across departments. 
+Features: 
+- Complex, scalable, and secure. 
+- Supports multiple users and roles. 
+- Often integrates with other systems. 
