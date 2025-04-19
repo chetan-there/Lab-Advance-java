@@ -117,3 +117,8 @@ Features:
 - Complex, scalable, and secure. 
 - Supports multiple users and roles. 
 - Often integrates with other systems. 
+Examples: 
+ERP (Enterprise Resource Planning)– Helps in managing business processes 
+3 
+ like inventory, finance, HR (e.g., SAP). 
+CRM (Customer Relationship Management) – Manages customer data and interactions  (e.g., Salesforce).
