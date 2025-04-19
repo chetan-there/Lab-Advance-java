@@ -43,3 +43,12 @@ Use Case: Desktop applications with a user-friendly interface.
 e.g: 
 JTextField nameField = new JTextField(); 
 JButton submit = new JButton("Submit"); 
+3. Web Browser Input: 
+--------------------- 
+Definition: Input is provided through HTML forms and web elements within a web browser. Tools/Technologies: HTML, CSS, JavaScript on the front end; Servlets, JSP,  Spring MVC on the back end. 
+Use Case: Web-based applications accessed via browsers. 
+e.g:  
+<form action="submitData" method="post"> 
+ <input type="text" name="username" /> 
+ <input type="submit" value="Submit" /> 
+</form> 
