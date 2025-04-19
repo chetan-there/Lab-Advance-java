@@ -1,0 +1,16 @@
+Chapter 1: Introduction to Applications 
+Q1. - Define Applications. 
+Answer: An application is a collection of related programs that are  
+designed to perform specific tasks or operations for the user.  
+These programs work together in a coordinated manner to achieve 
+a particular functionality, such as managing data, processing  
+information, or interacting with users. 
+Applications can be: 
+Stand Alone/Desktop Applications – Run on personal computers  
+ (e.g., Microsoft Word, Notepad). 
+Web Applications – Run in web browsers and are accessed over 
+ the internet (e.g., Gmail, Facebook). 
+Mobile Applications – Designed for mobile devices  
+ (e.g., WhatsApp, Instagram). 
+Enterprise Applications – Large-scale software used in organizations 
+ (e.g., ERP, CRM systems). 
