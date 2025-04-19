@@ -65,4 +65,19 @@ e.g:
 } 
 Q.3. What are the types of applications?Explain. 
 Answer: Applications are categorized based on their platform and usage. Below are the common types of applications: 
-1
+1. Desktop Applications/ Stand Alone Applications:  
+----------------------------------------------------- 
+Definition: These are software programs that run locally on a personal computer or laptop. They don't require a web browser or an internet connection(except for  updates or online features). 
+- These applications are also termed as non server application. 
+- SAA are categorised into two types based on user's interaction: 
+ - CUI Application: user interacts through console. 
+ - GUI Application: user interacts through GUI components. 
+ (Swing,JavaFx,AWT used for GUI applications) 
+Features: 
+- Installed directly on a system. 
+- Can work offline. 
+- Utilizes the computer’s hardware resources. 
+Examples: 
+Microsoft Word – A word processing application. 
+Notepad – A basic text editor for writing and editing plain text.
+2 
