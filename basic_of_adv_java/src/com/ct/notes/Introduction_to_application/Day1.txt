@@ -21,3 +21,15 @@ interface. The main four input levels are:
  - using GUI Input 
  - WebBroswer Input 
  - Application to Application(Webservices) 
+1. Console Input: 
+-------------------- 
+Definition: The most basic form of input where users provide data 
+through the terminal or command-line interface. 
+Example: Java's Scanner or BufferedReader classes to read input  
+ from the keyboard. 
+Use Case: Used in beginner-level Java programs, utility scripts,  
+ or system-level tools. 
+e.g: 
+Scanner sc = new Scanner(System.in); 
+System.out.print("Enter your name: "); 
+String name = sc.nextLine(); 
