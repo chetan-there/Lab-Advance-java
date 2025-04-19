@@ -33,3 +33,13 @@ e.g:
 Scanner sc = new Scanner(System.in); 
 System.out.print("Enter your name: "); 
 String name = sc.nextLine(); 
+2. GUI Input (Graphical User Interface): 
+------------------------------------------- 
+Definition: Input is taken via graphical components like text fields, 
+buttons, checkboxes, etc. 
+Tools/Technologies: Java Swing, JavaFX, AWT.
+1 
+Use Case: Desktop applications with a user-friendly interface. 
+e.g: 
+JTextField nameField = new JTextField(); 
+JButton submit = new JButton("Submit"); 
