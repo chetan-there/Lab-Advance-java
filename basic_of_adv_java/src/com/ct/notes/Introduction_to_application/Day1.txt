@@ -14,3 +14,10 @@ Mobile Applications – Designed for mobile devices
  (e.g., WhatsApp, Instagram). 
 Enterprise Applications – Large-scale software used in organizations 
  (e.g., ERP, CRM systems). 
+Q. How do we give input? 
+Answer: In application development, inputs can be provided through different levels or mediums depending on the type of application and its 
+interface. The main four input levels are: 
+ - using Console Input 
+ - using GUI Input 
+ - WebBroswer Input 
+ - Application to Application(Webservices) 
