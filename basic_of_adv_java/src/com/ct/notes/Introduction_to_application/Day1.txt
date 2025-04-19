@@ -100,3 +100,13 @@ Features:
 Examples: 
 Gmail – For sending and receiving emails. 
 Facebook – A social networking platform. 
+3. Mobile Applications: 
+--------------------------------- 
+Definition: Apps developed specifically for mobile devices like smartphones  and tablets.  
+They can be native (platform-specific), hybrid (combination of  
+Features: 
+- Installed through app stores (e.g., Google Play Store, Apple App Store). - Can access device features like camera, GPS, etc. 
+- May work offline or require internet. 
+Examples: 
+WhatsApp – A messaging and calling app. 
+Instagram – A photo and video sharing platform. 
