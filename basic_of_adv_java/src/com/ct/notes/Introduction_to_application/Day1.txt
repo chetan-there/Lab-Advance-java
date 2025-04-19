@@ -52,3 +52,14 @@ e.g:
  <input type="text" name="username" /> 
  <input type="submit" value="Submit" /> 
 </form> 
+4. Application to Application (Web Services): 
+--------------------------------------------- 
+Definition: Input and data exchange happen between applications without human  involvement, often over a network. 
+Technologies: REST APIs, SOAP, JSON, XML, HTTP/HTTPS. 
+Use Case: Microservices, cloud communication, payment gateways, third-party  integrations. 
+e.g: 
+// JSON input sent from one app to another 
+{ 
+ "userId": "12345", 
+ "action": "login" 
+} 
