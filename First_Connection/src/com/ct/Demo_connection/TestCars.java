@@ -44,4 +44,9 @@ public class TestCars {
 }
 
 
-// Output :
+// Output : 🚗 Details of Cars:
+// Brand Name: Mahindra	Model: Thar	YOM: 2024	Type: Petrol	Mileage: 13
+// Brand Name: Mahindra	Model: ScorpioN	YOM: 2025	Type: Diesel	Mileage: 9
+// Brand Name: Tata	Model: Safari	YOM: 2023	Type: Petrol	Mileage: 12
+// Brand Name: Tata	Model: Nexon	YOM: 2017	Type: Petrol	Mileage: 15
+// Brand Name: Nexa	Model: Baleno	YOM: 2019	Type: CNG	Mileage: 18
