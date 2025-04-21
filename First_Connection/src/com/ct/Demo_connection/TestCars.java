@@ -1,4 +1,4 @@
-package com.ct.connectionDemo;
+package com.ct.Demo_connection;
 
 import java.sql.*;
 
@@ -42,3 +42,6 @@ public class TestCars {
         }
     }
 }
+
+
+// Output :
