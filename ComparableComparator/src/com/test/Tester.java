@@ -9,7 +9,7 @@ public class Tester {
 
         ArrayList<Product> products = new ArrayList<>();
         products.add(new Product(101, "Pen", 100));
-        products.add(new Product(102, "Pencil", 60));
+        products.add(new Product(102, "Shoe", 60));
         products.add(new Product(103, "book", 200));
 
         Collections.sort(products);
